@@ -1,0 +1,17 @@
+{
+    "botToken": "",
+    "guildId": "",
+    "adminChannelId": "",
+    "moderatorRoleId": "",
+    "tradingChannelId": "",
+    "coinFlipChannelId": "",
+    "commandsChannelId": "",
+    "giveawayPingRoleId": "",
+    "matchAnnouncementLogChannelId": "",
+    "predictionLogChannelId": "",
+    "packChannelId": "",
+    "moneyManRole": "",
+    "BetRoleId": "",
+    "appCheckToken": "APPCHECK"
+  
+}
